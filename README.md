@@ -17,7 +17,7 @@
 - Built with SwiftUI, AVKit, Combine, CoreAnimation, CoreGraphics, CoreImage  
 - Metal-optimized rendering, low-latency decoding  
 - Smart filters: resolution, duration, size, category, created date  
-- Daily Shuffle, multi-device sync, license validation  
+- Multi-device sync, license validation  
 - AWS Lambda (Node.js runtime), API Gateway, S3/MinIO storage  
 - CloudFront CDN delivery, DynamoDB for likes/metadata  
 - Secure with macOS App Sandbox, Hardened Runtime, Code Signing, Notarization  
